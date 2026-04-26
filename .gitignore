@@ -1,0 +1,10 @@
+# Entornos virtuales
+venv/
+
+# Archivos de memoria locales
+memoria.json
+ultimo.txt
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
